@@ -112,34 +112,6 @@ TODO: Define topics and issues regarding performance.
 
 include::./misc/osi_reference.adoc[leveloffset=+1]
 
-== Contributing to OSI
-
-include::./contributing/start_contributing.adoc[leveloffset=+2]
-
-include::./contributing/licensing.adoc[leveloffset=+2]
-
-include::./contributing/dco.adoc[leveloffset=+2]
-
-include::./contributing/signing_off_commits.adoc[leveloffset=+2]
-
-include::./contributing/reporting_issues.adoc[leveloffset=+2]
-
-include::./contributing/contribution_rules.adoc[leveloffset=+2]
-
-include::./contributing/naming_conventions.adoc[leveloffset=+2]
-
-include::./contributing/branching_member.adoc[leveloffset=+2]
-
-include::./contributing/forking_no_member.adoc[leveloffset=+2]
-
-include::./contributing/contributing_docs.adoc[leveloffset=+2]
-
-include::./contributing/creating_comments.adoc[leveloffset=+2]
-
-include::./contributing/creating_images.adoc[leveloffset=+2]
-
-include::./contributing/code_review.adoc[leveloffset=+2]
-
 == Releases and compatibility
 
 include::./releases/releases.adoc[leveloffset=+2]
